@@ -15,3 +15,6 @@ nasm game.asm -o game.com
 ```sh
 game.com
 ```
+
+## Language
+Assembly

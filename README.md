@@ -17,4 +17,4 @@ game.com
 ```
 
 ## Language
-Assembly
+- Assembly
